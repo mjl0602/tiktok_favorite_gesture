@@ -1,6 +1,6 @@
 name: tiktok_favorite_gesture
-description: A new Flutter package project.
-version: 0.0.1
+description: Tap screen and favorite icon will pop with animation follow your finger.
+version: 1.0.0
 homepage: https://github.com/mjl0602/tiktok_favorite_gesture
 publish_to: https://pub.dartlang.org
 
