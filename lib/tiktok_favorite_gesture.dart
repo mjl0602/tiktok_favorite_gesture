@@ -119,7 +119,6 @@ class _TikTokFavoriteAnimationIconState
 
   @override
   void didChangeDependencies() {
-    // print('didChangeDependencies');
     super.didChangeDependencies();
   }
 
