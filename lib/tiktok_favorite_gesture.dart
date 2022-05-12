@@ -128,7 +128,7 @@ class _TikTokFavoriteAnimationIconState
     _animationController = AnimationController(
       lowerBound: 0,
       upperBound: 1,
-      duration: Duration(milliseconds: 1600),
+      duration: Duration(milliseconds: 600),
       vsync: this,
     );
 
